@@ -17,7 +17,7 @@ Server: Apache Tomcat 8.5.57 <br/>
 * Change perspective to Java EE <br/>
 * Create a new "Dynamic Web Project" </br>
 * Create Java class and interface class. Copy paste all the codes as per below file structure. <br/>
-![alt text](https://github.com/kaustubhrao47/SOAPDemoJava/blob/master/File-Structure-SOAPDemoJava.jpg?raw=true) <br/>
+![alt text](https://github.com/kaustubhrao47/SOAPDemoJava/blob/master/File-Structure-SOAPDemoJava.JPG?raw=true) <br/>
 * Create a new "Web Service" on SOAPDemo to generate SOAPDemoClient <br/>
 **_NOTE:_** Select the below settings: <br/>
   * Set service level of service and client generation to full i.e. Test Service and test Client respectively.
